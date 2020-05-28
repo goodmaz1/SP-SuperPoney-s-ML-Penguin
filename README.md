@@ -6,4 +6,4 @@ I couldn't figure out how to make ML-Agents work on my own build, so I used SP-S
 
 This is his github: https://github.com/SP-SuperPoney/ML-Agents-Penguins
 
-This is my build of his work:
+This is my build of his work: https://goodmaz1.github.io/SP-SuperPoney-s-ML-Penguin/
